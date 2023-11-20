@@ -42,7 +42,7 @@ const Feed = () => {
           mb={2}
           sx={{ color: "white" }}
         >
-          {selectedCategory} <span style={{ color: "#F31503" }}>Videoes</span>
+          {selectedCategory} <span style={{ color: "#F31503" }}></span>
         </Typography>
 
         <Videos videos={videos} />
