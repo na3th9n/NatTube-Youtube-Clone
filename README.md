@@ -29,7 +29,7 @@ All libraries are located in requirements.txt.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/na3th9n/notepad-note-creator.git
+   git clone https://github.com/na3th9n/NatTube-Youtube-Clone.git
    ```
 2. Install libraries
    ```sh
